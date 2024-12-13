@@ -42,7 +42,7 @@ I am a passionate **Java Web Developer** and recent graduate from Software Unive
 
 ### 🌐 Connect with Me  
 - **Email:** [viktor.shterev55@gmail.com](mailto:your.email@example.com)  
-- **LinkedIn:** [(https://www.linkedin.com/in/viktor-shterev-667816224)](https://www.linkedin.com/in/yourprofile)   
+- **LinkedIn:** [([https://www.linkedin.com/in/viktor-shterev-667816224](https://www.linkedin.com/in/viktor-shterev-667816224/))]
 
 ---
 
