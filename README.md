@@ -29,7 +29,7 @@ I am a passionate **Java Web Developer** and recent graduate from Software Unive
 ---
 
 ### 📂 Highlighted Projects  
-- **[Camping Cars]([link-to-repository](https://github.com/ViktorShterev/CampingCars-softuni-final-project)):** Brief description of the project (e.g., "A RESTful web application for task management using Spring MVC, Thymeleaf, Hibernate, and MySQL.")   
+- **[Camping Cars]([link-to-repository](https://github.com/ViktorShterev/CampingCars-softuni-final-project)):** A RESTful web application for Camping Cars and Caravans marketplace using Spring MVC, Thymeleaf, Hibernate, and MySQL.   
 
 ---
 
