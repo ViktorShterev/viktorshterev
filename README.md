@@ -18,7 +18,7 @@ I am a passionate **Java Web Developer** and recent graduate from Software Unive
 
 **Database Management**  
 - **Relational Databases:** Strong knowledge of MySQL, CRUD operations, and database schema design.  
-- **ORM Tools:** Proficient in **Hibernate** and **Spring Data**, with hands-on experience handling data storage and retrieval.  
+- **ORM Tools:** Proficient in **Hibernate** and **Spring Data**.  
 
 **DevOps and Cloud Technologies**  
 - **Linux Shell:** Comfortable with shell scripting and environment setup.  
@@ -42,7 +42,7 @@ I am a passionate **Java Web Developer** and recent graduate from Software Unive
 
 ### 🌐 Connect with Me  
 - **Email:** [viktor.shterev55@gmail.com](mailto:your.email@example.com)  
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/viktor-shterev-667816224)](https://www.linkedin.com/in/yourprofile)   
+- **LinkedIn:** [(https://www.linkedin.com/in/viktor-shterev-667816224)](https://www.linkedin.com/in/yourprofile)   
 
 ---
 
